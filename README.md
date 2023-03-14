@@ -10,7 +10,7 @@
  Máy tính tuổi không tính tuổi thì tính cái gì???
  
  ## Download
- Download phiên bản mới nhất [tại đây](/https://github.com/tuk3kCS/SmartAgeCalculator/releases/latest).
+ Download phiên bản mới nhất [tại đây](https://github.com/tuk3kCS/SmartAgeCalculator/releases/latest).
  
  ## Changelogs
  ### v1.0
