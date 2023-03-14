@@ -13,6 +13,6 @@
  Download phiên bản mới nhất [tại đây](/https://github.com/tuk3kCS/SmartAgeCalculator/releases/latest).
  
  ## Changelogs
- ### V1.0
+ ### v1.0
  Deploy lần đầu.
 
