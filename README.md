@@ -1,16 +1,16 @@
-﻿# Smart Age Calculator
- Created by a free IT student using only Python.
+﻿# Máy tính tuổi thông minh
+ Được tạo ra bởi một sinh viên IT rảnh rỗi.
  
- ## Features
- ### Fack the user's eyes
- Takes 69420 years to fix bugs.
+ ## Tính năng
+ ### Chọc mù mắt người dùng
+ Mất 69420 năm để sửa lỗi.
  
- ### Calculate your age
- If it does not so what can this software do???
+ ### Tính tuổi của bạn
+ Nếu không thì phần mềm này có thể làm được gì chứ???
  
  ## Download
- Download the newest version [here](https://github.com/tuk3kCS/SmartAgeCalculator/releases/latest).
+ Download phiên bản mới nhất tại [đây](https://github.com/tuk3kCS/SmartAgeCalculator/releases/latest).
  
  ## Changelogs
  ### v1.0
- First time deploy.
+ Deploy lần đầu.
