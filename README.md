@@ -1,5 +1,5 @@
-﻿# Máy tính tuổi thông minh
- Được tạo ra bởi một sinh viên IT rảnh rỗi.
+﻿# Giới thiệu
+ Phần mềm này được tạo ra bởi một sinh viên IT rảnh rỗi, sử dụng ngôn ngữ lập trình Python và PySimpleGUI để xây dựng giao diện người dùng đơn giản.
  
  ## Tính năng
  ### Chọc mù mắt người dùng
